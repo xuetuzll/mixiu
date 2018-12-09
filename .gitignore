@@ -1,14 +1,10 @@
 .DS_Store
 node_modules
 /dist
-/client/node_modules
+
 
 # local env files
 .env.local
 .env.*.local
 
-# Log files
-/client/npm-debug.log*
-/client/yarn-debug.log*
-/client/yarn-error.log*
 
